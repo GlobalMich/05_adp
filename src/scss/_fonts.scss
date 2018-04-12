@@ -1,0 +1,147 @@
+// stylelint-disable no-empty-source
+@font-face {
+  src: url("../fonts/exo2/exo2-thin-webfont.woff") format("woff"), url("../fonts/exo2/exo2-thin-webfont.woff2") format("woff2");
+  font-family: "exo2";
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  src: url("../fonts/exo2/exo2-thinitalic-webfont.woff") format("woff"), url("../fonts/exo2/exo2-thinitalic-webfont.woff2") format("woff2");
+  font-family: "exo2";
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  src: url("../fonts/exo2/exo2-extralight-webfont.woff") format("woff"), url("../fonts/exo2/exo2-extralight-webfont.woff2") format("woff2");
+  font-family: "exo2";
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  src: url("../fonts/exo2/exo2-extralightitalic-webfont.woff") format("woff"), url("../fonts/exo2/exo2-extralightitalic-webfont.woff2") format("woff2");
+  font-family: "exo2";
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  src: url("../fonts/exo2/exo2-light-webfont.woff") format("woff"), url("../fonts/exo2/exo2-light-webfont.woff2") format("woff2");
+  font-family: "exo2";
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  src: url("../fonts/exo2/exo2-lightitalic-webfont.woff") format("woff"), url("../fonts/exo2/exo2-lightitalic-webfont.woff2") format("woff2");
+  font-family: "exo2";
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  src: url("../fonts/exo2/exo2-regular-webfont.woff") format("woff"), url("../fonts/exo2/exo2-regular-webfont.woff2") format("woff2");
+  font-family: "exo2";
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  src: url("../fonts/exo2/exo2-italic-webfont.woff") format("woff"), url("../fonts/exo2/exo2-italic-webfont.woff2") format("woff2");
+  font-family: "exo2";
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  src: url("../fonts/exo2/exo2-medium-webfont.woff") format("woff"), url("../fonts/exo2/exo2-medium-webfont.woff2") format("woff2");
+  font-family: "exo2";
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  src: url("../fonts/exo2/exo2-mediumitalic-webfont.woff") format("woff"), url("../fonts/exo2/exo2-mediumitalic-webfont.woff2") format("woff2");
+  font-family: "exo2";
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  src: url("../fonts/exo2/exo2-semibold-webfont.woff") format("woff"), url("../fonts/exo2/exo2-semibold-webfont.woff2") format("woff2");
+  font-family: "exo2";
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  src: url("../fonts/exo2/exo2-semibolditalic-webfont.woff") format("woff"), url("../fonts/exo2/exo2-semibolditalic-webfont.woff2") format("woff2");
+  font-family: "exo2";
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  src: url("../fonts/exo2/exo2-bold-webfont.woff") format("woff"), url("../fonts/exo2/exo2-bold-webfont.woff2") format("woff2");
+  font-family: "exo2";
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  src: url("../fonts/exo2/exo2-bolditalic-webfont.woff") format("woff"), url("../fonts/exo2/exo2-bolditalic-webfont.woff2") format("woff2");
+  font-family: "exo2";
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  src: url("../fonts/exo2/exo2-extrabold-webfont.woff") format("woff"), url("../fonts/exo2/exo2-extrabold-webfont.woff2") format("woff2");
+  font-family: "exo2";
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  src: url("../fonts/exo2/exo2-extralightitalic-webfont.woff") format("woff"), url("../fonts/exo2/exo2-extralightitalic-webfont.woff2") format("woff2");
+  font-family: "exo2";
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  src: url("../fonts/exo2/exo2-black-webfont.woff") format("woff"), url("../fonts/exo2/exo2-black-webfont.woff2") format("woff2");
+  font-family: "exo2";
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  src: url("../fonts/exo2/exo2-blackitalic-webfont.woff") format("woff"), url("../fonts/exo2/exo2-blackitalic-webfont.woff2") format("woff2");
+  font-family: "exo2";
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+  src: url("../fonts/latoRegular/Lato-Regular.woff") format("woff"), url("../fonts/latoRegular/Lato-Regular.woff2") format("woff2");
+  font-family: "Lato";
+}
+
+@font-face {
+  src: url("../fonts/webfonts/fa-brands-400.woff") format("woff"), url("../fonts/webfonts/fa-brands-400.woff2") format("woff2");
+  font-family: "fa-brands-400";
+  font-weight: 400;
+}
+@font-face {
+  src: url("../fonts/webfonts/fa-regular-400.woff") format("woff"), url("../fonts/webfonts/fa-regular-400.woff2") format("woff2");
+  font-family: "fa-regular-400";
+  font-weight: 400;
+}
+@font-face {
+  src: url("../fonts/webfonts/fa-solid-900.woff") format("woff"), url("../fonts/webfonts/fa-solid-900.woff2") format("woff2");
+  font-family: "fa-solid-900";
+  font-weight: 900;
+}
